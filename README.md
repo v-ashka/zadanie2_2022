@@ -44,7 +44,7 @@ Projekt testowy uruchomiono za pomocą polecenia `docker compose -f docker-compo
 Działanie aplikacji:
 ![image](https://user-images.githubusercontent.com/47278535/173200511-0fcdc64d-ca85-4206-ba28-12e5cee5d032.png)
 
-![image](https://user-images.githubusercontent.com/47278535/173200534-7da7a9f9-bd9d-4af6-a3e7-4dfdc8aef360.png)
+![image](https://user-images.githubusercontent.com/47278535/173200848-6ac0afc5-d3c3-4e32-af78-1b9d3f22194b.png)
 
 # 3. Uruchomienie za pomocą docker swarm
 ![image](https://user-images.githubusercontent.com/47278535/173200407-fe10f544-d48a-43d3-ba3e-7b718daa55f5.png)
