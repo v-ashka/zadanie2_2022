@@ -42,14 +42,14 @@ Projekt testowy uruchomiono za pomocą polecenia `docker compose -f docker-compo
 ![image](https://user-images.githubusercontent.com/47278535/173200286-17e89fa1-a789-42ca-9809-096f4e361bc2.png)
 
 Działanie aplikacji:
-![image](https://user-images.githubusercontent.com/47278535/173200310-dc29d5c9-9672-475f-a73a-aed5d822069a.png)
+![image](https://user-images.githubusercontent.com/47278535/173200511-0fcdc64d-ca85-4206-ba28-12e5cee5d032.png)
 
-![image](https://user-images.githubusercontent.com/47278535/173200325-dc32404a-1af9-4ca8-8b84-1eb5d2952e86.png)
-
+![image](https://user-images.githubusercontent.com/47278535/173200534-7da7a9f9-bd9d-4af6-a3e7-4dfdc8aef360.png)
 
 # 3. Uruchomienie za pomocą docker swarm
 ![image](https://user-images.githubusercontent.com/47278535/173200407-fe10f544-d48a-43d3-ba3e-7b718daa55f5.png)
-Przetestowanie działania 
 
-![image](https://user-images.githubusercontent.com/47278535/173200438-3bb2be5f-ea3a-4d28-8ee8-620e09c23649.png)
+Przetestowanie działania stworzonego klastra
+
+![image](https://user-images.githubusercontent.com/47278535/173200736-ca55a9d9-75c3-462f-897b-e886d97cb108.png)
 
