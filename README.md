@@ -1,4 +1,4 @@
-# zadanie2_2022
+# Zadanie2 - Marcin Wijaszka
 
 Zadanie2 zostało w niewielki sposób zmodyfikowane jeżeli chodzi o wersję z zajęć z laboratorium 11.
 
